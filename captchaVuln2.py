@@ -5,6 +5,10 @@
 
 #Prereq: Firefox, geckodriver, selenium and python3
 
+#How to use?:
+#After prereqs are satisfied, just run the script in the terminal.
+#eg, python3 captchaVuln2.py
+
 #Author:Fadleen Sidek
 #Date: 04 Feb 2021
 #Version:0.2
