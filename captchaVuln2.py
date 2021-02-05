@@ -46,7 +46,7 @@ def automateComment():
 	#just print a simple timestamp with the comments
 	myComment = '{:%d-%m-%Y %H:%M:%S}'.format(datetime.datetime.now())
 
-	#driver = webdriver.Firefox(capabilities=firefox_capabilities)
+	driver = webdriver.Firefox(capabilities=firefox_capabilities)
 	driver = webdriver.Firefox()
 	driver.get("http://192.168.56.246/#/contact")
 
