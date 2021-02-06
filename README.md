@@ -7,7 +7,6 @@ There are many ways and this is just one way.
 
 ![caption](https://media.giphy.com/media/rVWC8b4OYxpYPdeZDJ/giphy.gif)
 
-
 2.feedbackVuln.py takes advantage of the API provided to directly post a Customer Feedback without the need to go through
 any web UI. A vulnerability that could be exploited to perform some sort of DoS to the system.
 
