@@ -5,7 +5,7 @@ Scripts for Juice Shop case study
 captchaVuln2.py makes use of python, selenium and the geckodriver to automate clicks and textinput entry.
 There are many ways and this is just one way.
 
-![caption](https://media.giphy.com/media/rVWC8b4OYxpYPdeZDJ/giphy.gif)
+![caption](https://media.giphy.com/media/XJqxbHTnpLx3LGnY7b/giphy.gif)
 
 2.feedbackVuln.py takes advantage of the API provided to directly post a Customer Feedback without the need to go through
 any web UI. A vulnerability that could be exploited to perform some sort of DoS to the system.
